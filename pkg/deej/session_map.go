@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/omriharel/deej/pkg/deej/util"
+	"github.com/ThomasDevoogdt/deej/pkg/deej/util"
 	"github.com/thoas/go-funk"
 	"go.uber.org/zap"
 )
